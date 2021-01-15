@@ -1,0 +1,13 @@
+.card-title {
+  font-size: 3em;
+    text-align: center;
+}
+.card-text {
+  text-align : center;
+  font-size: 1.2em;
+}
+.card-header {
+  text-align: center;
+  font-size: 1.3em;
+    color: #fff3f3;
+}
